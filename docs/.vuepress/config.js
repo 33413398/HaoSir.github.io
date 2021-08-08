@@ -7,6 +7,7 @@ module.exports = {
     title: "HaoSir",
     description: "欢迎来到我的博客",
     dest: "dist",
+    base: "/haoSir/",
     head: [
         ["meta", { name: "baidu_union_verify", content: "a0036ccf0b657813fb236f80f376c429" }],
         ["link", { rel: "icon", href: "/images/favicon.svg" }],
